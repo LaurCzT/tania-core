@@ -34,7 +34,7 @@ msgstr "Cont"
 
 #: resources/js/pages/settings/account.vue:6
 msgid "Account Settings"
-msgstr "Setăr cont"
+msgstr "Setări cont"
 
 #: resources/js/pages/farms/crop.vue:134
 msgid "Activity"
@@ -43,6 +43,7 @@ msgstr "Activitate"
 #: resources/js/pages/farms/areas.vue:12
 msgid "Add Area"
 msgstr "Adaugă zonă"
+reze
 
 #: resources/js/pages/farms/reservoirs.vue:12
 msgid "Add Reservoir"
@@ -75,7 +76,7 @@ msgstr ""
 
 #: resources/js/pages/farms/reservoirs-form.vue:5
 msgid "Add New Reservoir"
-msgstr "Adaugă rezeor nou"
+msgstr "Adaugă rezervor nou"
 
 #: resources/js/pages/farms/tasks/task-form.vue:14
 msgid "Add New Task"
