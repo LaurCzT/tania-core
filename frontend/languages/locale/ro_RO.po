@@ -290,11 +290,11 @@ msgstr "Creat la"
 #: resources/js/pages/farms/tasks/crop-task-form.vue:64
 #: resources/js/pages/tasks/task.vue:42
 msgid "Crop"
-msgstr ""
+msgstr "Cultură"
 
 #: resources/js/pages/farms/tasks/task-label.vue:8
 msgid "CROP"
-msgstr ""
+msgstr "CULTURĂ"
 
 #: resources/js/pages/farms/crops-form.vue:8
 msgid "Crop Batch is a quantity or consignment of crops done at one time."
@@ -303,7 +303,7 @@ msgstr ""
 #: resources/js/pages/farms/area.vue:36
 #: resources/js/pages/farms/crops-listing.vue:7
 msgid "Crop Variety"
-msgstr ""
+msgstr "Varietate culturi"
 
 #: resources/js/pages/farms/tasks/crop-task-form.vue:4
 msgid "Crop: Add New Task for"
@@ -312,7 +312,7 @@ msgstr ""
 #: resources/js/components/aside.vue:40
 #: resources/js/pages/farms/crops.vue:6
 msgid "Crops"
-msgstr ""
+msgstr "Culturi"
 
 #: resources/js/pages/farms/crop.vue:111
 msgid "Current Quantity"
@@ -333,7 +333,7 @@ msgstr ""
 
 #: resources/js/pages/farms/crops-listing.vue:16
 msgid "Days Since Seeding"
-msgstr ""
+msgstr "Zile de la însămânțare"
 
 #: resources/js/pages/farms/activities/upload-crop-task.vue:18
 msgid "Describe a bit about this photo"
@@ -342,7 +342,7 @@ msgstr ""
 #: resources/js/pages/farms/tasks/crop-task-form.vue:104
 #: resources/js/pages/farms/tasks/task-form.vue:82
 msgid "Description"
-msgstr ""
+msgstr "Descriere"
 
 #: resources/js/pages/farms/tasks/crop-task-form.vue:12
 #: resources/js/pages/farms/tasks/task-form.vue:23
