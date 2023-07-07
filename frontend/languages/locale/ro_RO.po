@@ -34,19 +34,19 @@ msgstr "Cont"
 
 #: resources/js/pages/settings/account.vue:6
 msgid "Account Settings"
-msgstr "Setari cont"
+msgstr "Setăr cont"
 
 #: resources/js/pages/farms/crop.vue:134
 msgid "Activity"
-msgstr ""
+msgstr "Activitate"
 
 #: resources/js/pages/farms/areas.vue:12
 msgid "Add Area"
-msgstr ""
+msgstr "Adaugă zonă"
 
 #: resources/js/pages/farms/reservoirs.vue:12
 msgid "Add Reservoir"
-msgstr ""
+msgstr "Adaugă rezervor"
 
 #: resources/js/pages/home.vue:12
 msgid "At A Glance"
@@ -58,16 +58,16 @@ msgstr ""
 
 #: resources/js/pages/inventories/materials.vue:13
 msgid "Add Material"
-msgstr ""
+msgstr "Adaugă material"
 
 #: resources/js/pages/inventories/materials-form.vue:8
 msgid "Add Material to Inventory"
-msgstr ""
+msgstr "Adaugă material in inventar"
 
 #: resources/js/pages/intro/area.vue:19
 #: resources/js/pages/farms/areas-form.vue:5
 msgid "Add New Area"
-msgstr ""
+msgstr "Adaugă zonă nouă"
 
 #: resources/js/pages/farms/crops.vue:20
 msgid "Add New Batch"
@@ -75,26 +75,26 @@ msgstr ""
 
 #: resources/js/pages/farms/reservoirs-form.vue:5
 msgid "Add New Reservoir"
-msgstr ""
+msgstr "Adaugă rezeor nou"
 
 #: resources/js/pages/farms/tasks/task-form.vue:14
 msgid "Add New Task"
-msgstr ""
+msgstr "Adaugă un task nou"
 
 #: resources/js/pages/farms/tasks/task-form.vue:10
 msgid "Add New Task on"
-msgstr ""
+msgstr "Adaugă un task nou la"
 
 #: resources/js/pages/farms/crop-notes.vue:49
 msgid "Add Notes"
-msgstr ""
+msgstr "Adaugă nota"
 
 #: resources/js/pages/farms/area.vue:18
 #: resources/js/pages/farms/crop-notes.vue:31
 #: resources/js/pages/farms/reservoir.vue:9
 #: resources/js/pages/tasks/task.vue:15
 msgid "Add Task"
-msgstr ""
+msgstr "Adaugă task"
 
 #: resources/js/pages/inventories/materials-form-agrochemical.vue:63
 #: resources/js/pages/inventories/materials-form-growingmedium.vue:44
@@ -106,33 +106,33 @@ msgstr ""
 #: resources/js/pages/inventories/materials-form-seedcontainer.vue:46
 #: resources/js/pages/inventories/materials.vue:38
 msgid "Additional Notes"
-msgstr ""
+msgstr "Note adiționale"
 
 #: resources/js/pages/farms/activities/harvest-crop-task.vue:35
 #: resources/js/pages/farms/crop.vue:210
 #: resources/js/pages/farms/tasks/water-task.vue:16
 #: resources/js/pages/tasks/task.vue:33 resources/js/pages/tasks/task.vue:56
 msgid "All"
-msgstr ""
+msgstr "Toate"
 
 #: resources/js/pages/farms/crop.vue:245 resources/js/pages/farms/crop.vue:278
 #: resources/js/pages/farms/tasks/task-list.vue:60
 msgid "Apply"
-msgstr ""
+msgstr "Aplică"
 
 #: resources/js/pages/farms/crops.vue:25
 msgid "Archives"
-msgstr ""
+msgstr "Arhive"
 
 #: resources/js/pages/farms/crop.vue:229
 #: resources/js/pages/farms/tasks/task-form.vue:60
 #: resources/js/pages/tasks/task.vue:36
 msgid "Area"
-msgstr ""
+msgstr "Zonă"
 
 #: resources/js/pages/farms/tasks/task-label.vue:4
 msgid "AREA"
-msgstr ""
+msgstr "ZONĂ"
 
 #: resources/js/pages/intro/area.vue:19
 #: resources/js/pages/farms/areas-form.vue:8
@@ -142,21 +142,21 @@ msgstr ""
 #: resources/js/pages/farms/areas-form.vue:14
 #: resources/js/pages/intro/area.vue:33
 msgid "Area Name"
-msgstr ""
+msgstr "Nume zonă"
 
 #: resources/js/pages/farms/area.vue:29
 msgid "Area Size"
-msgstr ""
+msgstr "Marime zonă"
 
 #: resources/js/components/aside.vue:24
 #: resources/js/pages/farms/areas.vue:6 resources/js/pages/home.vue:19
 msgid "Areas"
-msgstr ""
+msgstr "Zone"
 
 #: resources/js/components/timestamp.vue:4 resources/js/pages/farms/crop.vue:88
 #: resources/js/pages/farms/crop.vue:97
 msgid "at"
-msgstr ""
+msgstr "la"
 
 #: resources/js/pages/intro/reservoir.vue:11
 msgid "Awesome! Now let's create a new water source for your farm."
@@ -164,7 +164,7 @@ msgstr ""
 
 #: resources/js/components/common/btn-back.vue:3
 msgid "Back"
-msgstr ""
+msgstr "Înapoi"
 
 #: resources/js/pages/farms/crop-notes.vue:10
 #: resources/js/pages/farms/crop.vue:19
@@ -201,30 +201,30 @@ msgstr ""
 #: resources/js/pages/farms/activities/upload-crop-task.vue:27
 #: resources/js/pages/farms/tasks/crop-task-form.vue:113
 msgid "Cancel"
-msgstr ""
+msgstr "Renunță"
 
 #: resources/js/pages/farms/reservoir.vue:25
 #: resources/js/pages/farms/reservoirs.vue:32
 msgid "Capacity"
-msgstr ""
+msgstr "Capacitate"
 
 #: resources/js/pages/intro/reservoir.vue:54
 msgid "Capacity (litre)"
-msgstr ""
+msgstr "Capacitate (litrii)"
 
 #: resources/js/pages/farms/tasks/task-list.vue:11
 #: resources/js/pages/inventories/materials.vue:23
 #: resources/js/pages/tasks/task.vue:27
 msgid "Category"
-msgstr ""
+msgstr "Categorie"
 
 #: resources/js/pages/inventories/materials-form-agrochemical.vue:13
 msgid "Chemical Type"
-msgstr ""
+msgstr "Tip Chimical"
 
 #: resources/js/pages/farms/activities/dump-crop-task.vue:12
 msgid "Choose area"
-msgstr ""
+msgstr "Selectează zona"
 
 #: resources/js/pages/farms/activities/harvest-crop-task.vue:15
 msgid "Choose area to be harvested"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: resources/js/pages/farms/activities/upload-crop-task.vue:12
 msgid "Choose photo"
-msgstr ""
+msgstr "Selectează poza"
 
 #: resources/js/pages/farms/activities/harvest-crop-task.vue:28
 msgid "Choose type of harvesting"
@@ -248,43 +248,43 @@ msgstr ""
 
 #: resources/js/pages/intro/farm.vue:66
 msgid "City"
-msgstr ""
+msgstr "Oraș"
 
 #: resources/js/components/more-detail.vue:5
 msgid "Close details"
-msgstr ""
+msgstr "Închide detaliile"
 
 #: resources/js/pages/tasks/task.vue:71
 msgid "Completed"
-msgstr ""
+msgstr "Completat"
 
 #: resources/js/pages/settings/account.vue:34
 msgid "Confirm Password"
-msgstr ""
+msgstr "Confirmă parola"
 
 #: resources/js/pages/intro/farm.vue:110
 #: resources/js/pages/intro/reservoir.vue:60
 #: resources/js/pages/farms/create.vue:72
 msgid "Continue"
-msgstr ""
+msgstr "Continuă"
 
 #: resources/js/pages/intro/farm.vue:87
 msgid "Country"
-msgstr ""
+msgstr "Țtară"
 
 #: resources/js/pages/intro/farm.vue:21
 #: resources/js/pages/farms/create.vue:13
 msgid "Create Farm"
-msgstr ""
+msgstr "Crează ferma"
 
 #: resources/js/pages/intro/reservoir.vue:19
 msgid "Create Reservoir"
-msgstr ""
+msgstr "Crează rezervor"
 
 #: resources/js/pages/farms/reservoir.vue:33
 #: resources/js/pages/farms/reservoirs.vue:26
 msgid "Created On"
-msgstr ""
+msgstr "Creat la"
 
 #: resources/js/pages/farms/tasks/crop-task-form.vue:64
 #: resources/js/pages/tasks/task.vue:42
